@@ -1,4 +1,4 @@
-# BountyNGT - Sistema de Caçador de Recompensas para Unturned
+# 🤠 BountyNGT - Sistema de Caçador de Recompensas para Unturned
 
 Um plugin avançado e imersivo para servidores de Unturned (RocketMod). O **BountyNGT** permite que os jogadores coloquem a cabeça de seus inimigos a prêmio, oferecendo XP e itens físicos diretamente de seus inventários como recompensa.
 
